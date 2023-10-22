@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Saketh a PhD student researching RL and Swarm Robotics
 
 <!--
 **saketh-k/saketh-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
